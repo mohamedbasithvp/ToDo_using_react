@@ -1,5 +1,3 @@
-Sure! Here is a new `README.md` file for the repository `mohamedbasithvp/ToDo_using_react`:
-
 ```markdown
 # ToDo Application using React
 
